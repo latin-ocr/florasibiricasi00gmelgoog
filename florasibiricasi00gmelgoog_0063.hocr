@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florasibiricasi00gmelgoog_0063.png"; bbox 0 0 4378 5721; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 326 848 2985 1086">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 326 848 2985 1086">
+     <span class='ocr_line' id='line_1_1' title="bbox 329 848 2985 999; baseline 0.014 -57"><span class='ocrx_word' id='word_1_1' title='bbox 329 849 546 943; x_wconf 61' lang='lat' dir='ltr'>venis</span> <span class='ocrx_word' id='word_1_2' title='bbox 590 848 953 943; x_wconf 32' lang='lat' dir='ltr'>affiffinsta</span> <span class='ocrx_word' id='word_1_3' title='bbox 974 920 1017 966; x_wconf 83' lang='lat'>.‚</span> <span class='ocrx_word' id='word_1_4' title='bbox 1038 863 1230 948; x_wconf 73' lang='lat' dir='ltr'>‘roris</span> <span class='ocrx_word' id='word_1_5' title='bbox 1278 865 1666 960; x_wconf 81' lang='lat' dir='ltr'>iintendum</span> <span class='ocrx_word' id='word_1_6' title='bbox 1744 870 2070 994; x_wconf 90' lang='lat' dir='ltr'>integris</span> <span class='ocrx_word' id='word_1_7' title='bbox 2086 941 2128 988; x_wconf 68' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2171 848 2665 999; x_wconf 57' lang='lat' dir='ltr'>&#39;sspkrnmque&#39;&#39;</span> <span class='ocrx_word' id='word_1_9' title='bbox 2703 864 2985 983; x_wconf 66' lang='lat' dir='ltr'>:antem</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 326 984 1644 1086; baseline 0.014 -15"><span class='ocrx_word' id='word_1_10' title='bbox 326 984 591 1071; x_wconf 69' lang='lat' dir='ltr'>§leuiter</span> <span class='ocrx_word' id='word_1_11' title='bbox 637 1002 736 1071; x_wconf 39' lang='lat' dir='ltr'>tet</span> <span class='ocrx_word' id='word_1_12' title='bbox 782 1011 973 1073; x_wconf 73' lang='lat' dir='ltr'>,raro</span> <span class='ocrx_word' id='word_1_13' title='bbox 1011 990 1378 1086; x_wconf 52' lang='lat' dir='ltr'>tdentatis.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1605 998 1644 1009; x_wconf 82' lang='grc'>”</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 61 206 96 1190">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 61 206 96 1190">
+     <span class='ocr_line' id='line_1_3' title="bbox 61 206 96 1190; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 61 206 96 1190; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

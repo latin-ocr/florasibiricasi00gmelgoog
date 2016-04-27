@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florasibiricasi00gmelgoog_0203.png"; bbox 0 0 4378 5721; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 313 531 2929 947">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 313 531 2929 947">
+     <span class='ocr_line' id='line_1_1' title="bbox 872 531 2928 720; baseline -0.001 -19"><span class='ocrx_word' id='word_1_1' title='bbox 872 604 1033 703; x_wconf 77' lang='grc' dir='ltr'><strong>ιν.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1098 598 1663 701; x_wconf 75' lang='lat' dir='ltr'><strong><em>FLomBVs</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1723 603 2332 705; x_wconf 68' lang='lat' dir='ltr'><strong><em>RAmATIs.</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2406 531 2410 534; x_wconf 4' lang='grc' dir='ltr'><strong>ἢ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2738 640 2788 699; x_wconf 65' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 2803 630 2928 720; x_wconf 70' lang='lat'><strong>73</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 313 835 2929 947; baseline 0.001 -20"><span class='ocrx_word' id='word_1_7' title='bbox 313 835 538 927; x_wconf 76' lang='lat' dir='ltr'><strong>lamus</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 594 841 834 928; x_wconf 87' lang='lat' dir='ltr'>nudus</span> <span class='ocrx_word' id='word_1_9' title='bbox 889 843 1222 947; x_wconf 55' lang='lat' dir='ltr'>&amp;parare</span> <span class='ocrx_word' id='word_1_10' title='bbox 1281 841 1564 928; x_wconf 80' lang='lat' dir='ltr'>iubent.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1625 838 1950 947; x_wconf 83' lang='lat' dir='ltr'><strong>Propter</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2003 841 2267 926; x_wconf 77' lang='lat' dir='ltr'>radicis</span> <span class='ocrx_word' id='word_1_13' title='bbox 2322 836 2536 924; x_wconf 71' lang='lat' dir='ltr'><strong>vfitm</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2601 839 2740 925; x_wconf 84' lang='lat' dir='ltr'><strong>sub</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2785 843 2929 930; x_wconf 78' lang='lat' dir='ltr'><strong>Ri-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

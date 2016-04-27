@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florasibiricasi00gmelgoog_0065.png"; bbox 0 0 4378 5721; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 920 579 2963 692">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 920 579 2963 692">
+     <span class='ocr_line' id='line_1_1' title="bbox 920 579 2963 692; baseline 0.005 -13"><span class='ocrx_word' id='word_1_1' title='bbox 920 588 988 679; x_wconf 84' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1053 579 2182 680; x_wconf 75' lang='lat' dir='ltr'><strong><em>sEmFLOScVLOSAE.</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2849 583 2898 692; x_wconf 61' lang='grc' dir='ltr'>ὁ</span> <span class='ocrx_word' id='word_1_4' title='bbox 2920 591 2963 690; x_wconf 75' lang='lat'><em>3</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 328 807 3124 1040">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 328 779 3124 1040">
+     <span class='ocr_line' id='line_1_2' title="bbox 455 807 3124 937; baseline -0.001 -36"><span class='ocrx_word' id='word_1_5' title='bbox 455 807 746 901; x_wconf 52' lang='lat' dir='ltr'>cannes.</span> <span class='ocrx_word' id='word_1_6' title='bbox 790 818 1092 929; x_wconf 80' lang='lat' dir='ltr'>pedales</span> <span class='ocrx_word' id='word_1_7' title='bbox 1134 816 1283 907; x_wconf 62' lang='lat' dir='ltr'><strong>&#39;saut</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1344 816 1743 928; x_wconf 76' lang='lat' dir='ltr'><strong>cubitales,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1764 847 1791 890; x_wconf 87' lang='grc'>·.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1847 817 2299 931; x_wconf 77' lang='lat' dir='ltr'>plerumque</span> <span class='ocrx_word' id='word_1_11' title='bbox 2392 810 2917 937; x_wconf 82' lang='lat' dir='ltr'>fimplicisfimi</span> <span class='ocrx_word' id='word_1_12' title='bbox 2951 870 2989 923; x_wconf 59' lang='lat'>,0</span> <span class='ocrx_word' id='word_1_13' title='bbox 3116 928 3124 935; x_wconf 20' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 328 943 2646 1040; baseline -0.004 -4"><span class='ocrx_word' id='word_1_14' title='bbox 328 943 738 1036; x_wconf 75' lang='lat' dir='ltr'>albentibus</span> <span class='ocrx_word' id='word_1_15' title='bbox 801 948 1041 1040; x_wconf 60' lang='lat' dir='ltr'>longis</span> <span class='ocrx_word' id='word_1_16' title='bbox 1103 950 1273 1040; x_wconf 77' lang='lat' dir='ltr'>nius</span> <span class='ocrx_word' id='word_1_17' title='bbox 1327 946 1810 1040; x_wconf 67' lang='lat' dir='ltr'>hispidiffimi</span> <span class='ocrx_word' id='word_1_18' title='bbox 1835 1008 1860 1040; x_wconf 82' lang='lat'>.</span> <span class='ocrx_word' id='word_1_19' title='bbox 1923 946 2310 1032; x_wconf 83' lang='lat' dir='ltr'>interdum</span> <span class='ocrx_word' id='word_1_20' title='bbox 2389 943 2646 1030; x_wconf 81' lang='lat' dir='ltr'>striati.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
